@@ -17,3 +17,5 @@ Before going to the demo site, please go cors-anywhere.herokuapp.com and enable 
 <h3>
     Demo Website is <a href="https://nilswg.github.io/ts-react-weather-app/">here</a> 🚀
 </h3>
+
+![light](https://user-images.githubusercontent.com/64550861/138670945-f720b203-a4b5-4c45-a093-6e55843a15a6.PNG)
