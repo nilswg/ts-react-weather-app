@@ -1,6 +1,6 @@
 # ts-react-weather-app
 
-This is a weather app for learning pursposes and built with React and Typescript.
+This is a weather app for learning purposes and built with React and Typescript.
 
 The structure of the project can be found <a href="https://dev.to/nilanth/redux-toolkit-the-standard-way-to-write-redux-2g32">here</a> 
     
